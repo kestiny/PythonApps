@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/SimplePdf">
+        <file>res/merge.png</file>
+        <file>res/split.png</file>
+        <file>res/title.png</file>
+        <file>res/close.png</file>
+        <file>res/close_hover.png</file>
+    </qresource>
+</RCC>
